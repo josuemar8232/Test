@@ -16,7 +16,7 @@
         "filler"
     ],
     "channel_whitelist": [],
-    "skip_count_tracking": true,
+    "skip_count_tracking": false,
     "mute_ads": true,
     "skip_ads": true,
     "minimum_skip_length": 1,
