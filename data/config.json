@@ -20,6 +20,6 @@
     "mute_ads": true,
     "skip_ads": true,
     "minimum_skip_length": 1,
-    "auto_play": true,
+    "auto_play": false,
     "join_name": "iSponsorBlockTV"
 }
