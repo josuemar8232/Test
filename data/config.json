@@ -9,17 +9,13 @@
     "apikey": "",
     "skip_categories": [
         "sponsor",
-        "selfpromo",
-        "intro",
-        "outro",
-        "preview",
-        "filler"
+        "selfpromo"
     ],
     "channel_whitelist": [],
     "skip_count_tracking": false,
     "mute_ads": true,
     "skip_ads": true,
     "minimum_skip_length": 1,
-    "auto_play": false,
+    "auto_play": true,
     "join_name": "iSponsorBlockTV"
 }
